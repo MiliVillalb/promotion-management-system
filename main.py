@@ -2,7 +2,6 @@
 # TRABAJO PRACTICO NRO 3
 # EQUIPO DE TRABAJO
 # 1ER ANO - SISTEMAS - UTN
-# GIAN LUCA VIANI
 # ....................................................
 
 # Importa las librerías a utilizar
